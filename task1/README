@@ -1,0 +1,7 @@
+# Simple Shell
+
+## Compilation
+Run `make` in the `task1` directory to compile the simple shell program.
+
+## Running
+Execute `./simple_shell` to start the shell. Type in commands
